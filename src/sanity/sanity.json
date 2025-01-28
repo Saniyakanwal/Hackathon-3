@@ -1,9 +1,0 @@
-{
-    "api": {
-      "projectId": "upkcgy9a",
-      "dataset": "production"   
-    },
-    "studio": {
-        "basePath": "/studio" 
-    }
-}
