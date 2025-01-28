@@ -1,0 +1,7 @@
+TestCaseId,Name,Test Step,Expected Result,Actual Result,Status,Remarks
+TC001,Validate product listing page,Open product page > Verify products,Products displayed correctly,Products displayed correctly,Passed,no issue found
+TC002,Filter and Search,open Search bar > type >open page,products display correctly, products display correctly,passed,no issue found
+TC003,Cart operation,no implement,_,_,failed,_
+TC004,dynamic routing,click on product > open page, products displayed correctly , product displayed correctly, passed,no issue found
+TC005,Browser testing,run link in chrome firefox edge,page displayed correctly, page displayed correctly,passed,no issue found
+TC006,Responsive design,___,some pages are no responsive,___,failed,___
