@@ -30,4 +30,8 @@ here is report: [data - data.csv.pdf](https://github.com/user-attachments/files/
 
 DAY_6:
 deployment setup add environment variables
+here is pdf: [Day 6.pdf](https://github.com/user-attachments/files/18572999/Day.6.pdf)
+
+     <-------------------========================================================================------------------------------->
+
 
