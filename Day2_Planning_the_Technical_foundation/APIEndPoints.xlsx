@@ -1,0 +1,37 @@
+APIEndpoint:
+      Name:/Products;
+      Method:GET;
+      Description:Fetch all products detail;
+      Response:{
+        "id":1,
+        "name":"Pizza",
+        "price":650,
+        "description":"A delicious pizza with various toppings"
+      }
+
+
+      Name:/orders;
+      Method:POST;
+      Description:Create a new order;
+      Response:{
+        "id":1,
+        "customer_id":1,
+        "customer_name":"Ali",
+        "product":"Pizza",
+        "price":650,
+        "payment_status":pending
+        }
+
+        Name:/shipment;
+        Method:GET;
+        Description:Track order status via third party API;
+        Response:{
+            "shipment_id":00234567,
+            "order_id":1,
+            "customer_id":1,
+            "customer_name":"Ali",
+            "product":"Pizza",
+            "price":650,
+            "shipment_status":pending,
+            "delivery_Date":22-jan-2025
+            }
